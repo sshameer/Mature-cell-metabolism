@@ -1,0 +1,7 @@
+name: example-environment
+dependencies:
+  - python
+  - pip
+  - pip:
+    - cobra
+    - python-libsbml
