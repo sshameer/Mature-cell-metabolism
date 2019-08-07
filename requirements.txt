@@ -1,2 +1,2 @@
-cobra
+cobra==0.13.4
 python-libsbml
